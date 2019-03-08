@@ -4,6 +4,10 @@ public class Main {
 
     public static void main(String[] args) {
         System.out.println("Hello, jim.");
+
+
+        MyClass myClass = new MyClass(10);
+
     }
 
     public void exampleForPrinting() {
